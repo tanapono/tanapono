@@ -29,9 +29,9 @@
 ### 🧠 <span style="color:lime;">Who Am I?</span>
 ### 👨‍💻 About Me
 
-I’m **Tanapon Onuean**, a passionate engineer with over **7 years of experience** in the IT industry:
+I’m **Tanapon Onuean**, a passionate engineer with over **8 years of experience** in the IT industry:
 - 🛠 <span style="color:lime;">5 years</span> as a **System Engineer** 
-- 🔐 <span style="color:lime;">2 years</span> as a **DevSecOps Engineer**  
+- 🔐 <span style="color:lime;">3 years</span> as a **DevSecOps Engineer**  
 - 💡 Focused on building **secure CI/CD pipelines** with GitHub Actions, GitLab CI
 
 I specialize in designing and implementing secure CI/CD pipelines using both **GitHub Actions** and **GitLab CI**.  
