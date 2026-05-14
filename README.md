@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanapono">
-    <img src="https://img.shields.io/github/followers/tanapono?label=Followers&style=for-the-badge&color=00FF00&logo=github" />
+  <!-- เปลี่ยนเป็น Static Badge เพื่อตัดปัญหา INVALID -->
+  <a href="https://github.com/tanapono?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-GitHub-00FF00?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/tanapon-o-151b6623a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -36,8 +37,15 @@ I am a **DevSecOps Engineer** with over 8 years of experience in IT infrastructu
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanapono&show_icons=true&theme=dark&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapono&layout=compact&theme=dark" width="300" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanapono&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" width="48%" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanapono&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card (ย้ายลงมาด้านล่างเพื่อความสวยงาม) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapono&layout=compact&theme=dark&hide_border=false" width="70%" />
 </p>
 
 ---
