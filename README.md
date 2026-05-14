@@ -1,82 +1,64 @@
 <!-- GitHub Profile README -->
 
-
-
-<!-- Matrix Hacker Style GitHub Profile README -->
----
-<h1 align="center" style="color:lime;">☠️ Hi 👋 Welcome to My World ☠️</h1>
-
-<marquee behavior="scroll" direction="left" scrollamount="8">
-  <strong style="color:lime;">👨‍💻 Tanapon Onuean — 💻 System Engineer | 💻 DevSecOps Engineer |  🔐 DevSecOps | 🚀 CI/CD Specialist</strong>
-</marquee>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tanapono?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/tanapono?style=social" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00FF00&height=200&section=header&text=TANAPON%20ONUEAN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=System%20Engineer%20|%20DevSecOps%20Specialist&descSize=20&descAlignY=62" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" alt="Matrix code gif"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <a href="https://github.com/tanapono">
+    <img src="https://img.shields.io/github/followers/tanapono?label=Followers&style=for-the-badge&color=00FF00&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanapon-o-151b6623a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
+### ⚡ About Me
+I am a **DevSecOps Engineer** with over 8 years of experience in IT infrastructure and security. I specialize in turning manual workflows into **Automated & Secure CI/CD Pipelines**.
 
-
-
-### 🧠 <span style="color:lime;">Who Am I?</span>
-### 👨‍💻 About Me
-
-I’m **Tanapon Onuean**, a passionate engineer with over **8 years of experience** in the IT industry:
-- 🛠 <span style="color:lime;">5 years</span> as a **System Engineer** 
-- 🔐 <span style="color:lime;">3 years</span> as a **DevSecOps Engineer**  
-- 💡 Focused on building **secure CI/CD pipelines** with GitHub Actions, GitLab CI
-
-I specialize in designing and implementing secure CI/CD pipelines using both **GitHub Actions** and **GitLab CI**.  
-I’m highly familiar with tools across the software delivery lifecycle — from code analysis to deployment and monitoring.
+- 🛠 **System Engineering:** 5 Years of building robust foundations.
+- 🔐 **DevSecOps:** 3 Years of securing the software supply chain.
+- 🚀 **Mission:** "Automate everything you can. Secure everything you build."
 
 ---
 
-![Tanapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanapono&show_icons=true&theme=github_dark)
+### 🛠 Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-208CAE?style=flat-square&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo-cd&logoColor=white) |
+| **Security** | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Checkmarx](https://img.shields.io/badge/Checkmarx-FF2323?style=flat-square) ![Snyk](https://img.shields.io/badge/Snyk-700578?style=flat-square&logo=snyk&logoColor=white) |
+| **Cloud-Native** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat-square&logo=helm&logoColor=white) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| **Languages** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square) |
+
 ---
-### 🧰 Tech Stack & Tools
 
-- **CI/CD**: GitHub Actions, GitLab CI, Appdome  
-- **Security & Code Scanning**: SonarQube, CodeQL, OSV Scanner  
-- **Deployment**: ArgoCD, Docker, Kubernetes  
-- **Monitoring**: Grafana, Prometheus  
-- **Cloud-native Tools**: Helm  
-- **Languages/Scripting**: Bash, YAML, JavaScript (for GitHub Apps & Actions)
-
----
-
-### 🔐 DevSecOps Pipeline Overview
-
-Here's a high-level diagram of a typical DevSecOps workflow I build and maintain:
+### 🔐 DevSecOps Pipeline Workflow
+*Visualizing the secure software development life cycle.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanapono/tanapono/main/assets/devsecops2.png" alt="DevSecOps Pipeline Diagram" width="700"/>
+  <img src="https://raw.githubusercontent.com/tanapono/tanapono/main/assets/devsecops2.png" alt="DevSecOps Pipeline" width="85%"/>
 </p>
 
-**Stages include:**
-1. ✅ **Code Scanning** with CodeQL, SonarQube, OSV
-2. 🔒 **Security Gate** to block builds on vulnerabilities
-3. ⚙️ **Build & Test**
-4. 🚀 **Deploy** via ArgoCD to Kubernetes
-5. 📈 **Monitor** with Prometheus + Grafana
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanapono&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanapono&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanapon-o-151b6623a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- LinkedIn: [linkedin.com/in/tanapon-o](https://www.linkedin.com/in/tanapon-o-151b6623a)
-- GitHub: [@tanaponon](https://github.com/tanapono)
-
----
-
-> *“Automate everything you can. Secure everything you build.”*
-
-
-
+<p align="right">
+  <i>Last updated: May 2026</i>
+</p>
